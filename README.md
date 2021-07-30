@@ -102,4 +102,4 @@ bundle exec jekyll s
 
 ## License
 
-[GPL v3](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
+[MIT](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
