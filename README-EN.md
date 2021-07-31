@@ -45,7 +45,7 @@ Software domain.
 - Refactoring
 - Software Development
 - Machine Learning
-- Artificial Intelligence AI
+- Deep Learning
 - Web Principles
 - Database
 - Web Development
@@ -55,6 +55,7 @@ Software domain.
 - C++
 - PHP
 - C++
+- Java
 - perl
 
 Mathematical fields.
