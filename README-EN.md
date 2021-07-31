@@ -31,6 +31,161 @@
 - Article comment and site message board | [Preview](https://polyaD.github.io/message)
 - Customized “About” page | [Preview](https://polyaD.github.io/about)
 
+## Topic Module
+Assimilation Model Domain.
+- Assimilation Knowledge
+
+Computer hardware area.
+- Embedded programming  
+
+Software domain.
+- Data structures
+- Topic Algorithms
+- Design Patterns
+- Refactoring
+- Software Development
+- Machine Learning
+- Artificial Intelligence AI
+- Web Principles
+- Database
+- Web Development
+- Topic code
+- Interview Tips
+- python
+- C++
+- PHP
+- C++
+- perl
+
+Mathematical fields.
+- Mathematical notation
+- Calculus
+- Linear algebra
+- Discrete mathematics
+- Conceptual Theory and Statistics
+- Statistical Learning
+- Operations Research
+- Graph Theory
+- Game Theory
+- Mathematical algorithm implementation
+
+
+Bioinformatics field.
+- Bioinformatics algorithms
+- Process Development
+- nextflow
+- Macrogenomics
+- Transcriptome
+- Genome
+- Metabolome
+- Proteome
+- Third Generation Sequencing
+- Molecular Biology
+- Clinical
+
+Product & Marketing Area.
+- Brand Planning
+- Conference and Exhibition Marketing
+- Product Copywriting
+
+
+
+Self-management and technical team management area.
+- Self-management iteration
+- People Resource Management
+- Technical Team Management
+- Corporate vision and culture assimilation kernel
+- Rapid growth of individuals and companies together
+
+Group enterprise area.
+- Corporate Strategy
+- Corporate Management
+
+Foreign language learning field.
+- 6 months to master a foreign language
+- English thinking
+- English-English dictionary
+
+Financial quantification field.
+- mql
+
+Self-media field.
+- Video Production
+- Copywriting
+- Music production
+- Cartoon production
+- 3D model production
+
+Martial arts and Taoist medicine field.
+- Chinese Medicine
+- Taoist Medicine
+- Fitness
+- Wellness
+- Martial Arts
+
+Other areas.
+- Dance
+- Camping
+- Wilderness Survival
+
+
+
+
+
+
+##Excellent collection of resources
+Metamodule.
+- Literature.
+- Booklist.
+- Blog.
+- Forums.
+- Videos.
+- Other resources.
+
+Assimilated Knowledge Areas
+
+Computer Hardware Domain
+
+Software Domain
+- Literature.
+- Booklist.
+- Blog.
+1. Programming learning resources organized https://github.com/rd2coding/Road2Coding
+2. Self-study path Coding Interview University https://github.com/jwasham/coding-interview-university
+- Forum.
+
+- Video.
+- Other resources.
+
+Mathematics field
+
+Bioinformatics
+
+Product and marketing area
+
+Self-management and technical team management domain
+
+Group companies
+
+
+Foreign Language Learning
+
+Quantitative Finance
+
+Self-media
+
+Martial Arts and Taoist Medicine
+
+Other fields
+
+----
+
+
+
+
+
+
+
 ## Usage
 
 Detailed tutorial：[Build Github Pages blog website](https://polyaD.github.io/2018/04/01/github-pages-blog)
@@ -109,6 +264,8 @@ Then shell will print a message about open `http://127.0.0.1:4000` in browser to
 
 - https://github.com/ShawnTeoh/matjek
 
+- https://knightyun/knightyun.github.io 
+
 ## License
 
-[GPL v3](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
+[GNU GENERAL PUBLIC LICENSE](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)

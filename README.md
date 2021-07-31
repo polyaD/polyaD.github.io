@@ -31,6 +31,154 @@
 - 文章评论与留言板功能 | [预览](https://polyaD.github.io/message)
 - 生动的 “关于” 页面 | [预览](https://polyaD.github.io/about)
 
+##主题模块
+同化模型领域：
+- 同化知识
+
+计算机硬件领域：
+-  嵌入式编程  
+
+软件领域：
+- 数据结构
+- 主题算法
+- 设计模式
+- 重构
+- 软件开发
+- 机器学习
+- 人工智能AI
+- 网络原理
+- 数据库
+- 网站开发
+- 主题code
+- 面试技巧
+- python
+- C++
+- PHP
+- R
+- perl
+
+数学领域：
+- 数学符号
+- 微积分
+- 线性代数
+- 离散数学
+- 概念论与统计学
+- 统计学习
+- 运筹学
+- 图论
+- 博弈论
+- 数学算法实现
+
+
+生物信息领域：
+- 生信算法
+- 流程开发
+- nextflow
+- 宏基因组
+- 转录组
+- 基因组
+- 代谢组
+- 蛋白组
+- 第三代测序
+- 分子生物学
+- 临床
+
+产品与市场领域：
+- 品牌策划
+- 会议与展会营销
+- 产品文案
+
+
+
+自我管理与技术团队管理领域：
+- 自我管理迭代
+- 人脉资源管理
+- 技术团队管理
+- 企业愿景与文化同化内核
+- 个人与企业共同快速成长
+
+集团企业领域：
+- 企业战略
+- 企业管理
+
+外语学习领域：
+- 6个月掌握一门外语
+- 英语思维
+- 英英字典
+
+金融量化领域：
+- mql
+
+自媒体领域：
+- 视频制作
+- 文案制作
+- 音乐制作
+- 漫画制作
+- 3D模型制作
+
+武术与道医领域：
+- 中医
+- 道医
+- 健身
+- 养生
+- 武术
+
+其他领域：
+- 舞蹈
+- 野营
+- 野外生存
+
+
+
+
+
+
+##优秀的资源收集
+元模块：
+-   文献：
+-   书单：
+-   博客：
+-   论坛：
+-   视频：
+-   其他资源：
+
+同化知识领域
+
+计算机硬件领域
+
+软件领域
+-   文献：
+-   书单：
+-   博客：
+1.编程学习资源整理 https://github.com/rd2coding/Road2Coding
+2.自学路径 Coding Interview University https://github.com/jwasham/coding-interview-university
+-   论坛：
+
+-   视频：
+-   其他资源：
+
+数学领域
+
+生物信息领域
+
+产品与市场领域
+
+自我管理与技术团队管理领域
+
+集团企业领域
+
+
+外语学习领域
+
+金融量化领域
+
+自媒体领域
+
+武术与道医领域
+
+其他领域
+
+----
 ## 使用
 
 详细搭建教程：[搭建 Github Pages 个人博客网站](https://polyaD.github.io/2018/04/01/github-pages-blog)
@@ -46,13 +194,13 @@ jekyll 使用教程：<https://www.jekyll.com.cn/>
 # 以下为自定义的全局变量，可以在 HTML 文件中引用，
 # 比如代码：<h1>{{ site.title }}</h1> 
 # 将会展示为设定的值，也可以自行添加其他自定义全局变量。
-title: polya卷卷的博客 # 网站的标题
+title: polyaD的深度思考博客 # 网站的标题
 description: > # 网站的描述，可能会出现在搜索引擎展示结果中
   基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
 url: "https://polyaD.github.io" # 网站地址
 github_repo: polyaD/polyaD.github.io
 github_profile: "https://github.com/polyaD" # GitHub 个人主页
-user: "polya卷卷" # 用于侧栏展示的名字
+user: "polyaD" # 用于侧栏展示的名字
 user_email: "1183780343@qq.com" # 侧栏展示的联系方式
 paginate: 5 # 主页展示的博客文章数量
 
@@ -99,7 +247,8 @@ bundle exec jekyll s
 ## 参考
 
 - https://github.com/ShawnTeoh/matjek
+- https://knightyun/knightyun.github.io 
 
 ## License
 
-[MIT](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
+[GNU GENERAL PUBLIC LICENSE](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
