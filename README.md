@@ -3,7 +3,7 @@
         简体中文 | <a href="README-EN.md">English</a>
     </div>
     <h1>polyaD.github.io</h1>
-    <p>基于 jekyll 的响应式 Github Pages 个人博客网站</p>
+    <p>响应式 Github Pages 个人博客网站</p>
 
 [![license](https://img.shields.io/github/license/polyaD/polyaD.github.io)](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
 [![Gitter](https://img.shields.io/gitter/room/polyaD/polyaD.github.i0)](https://gitter.im/polyaD-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -196,40 +196,6 @@ jekyll 使用教程：<https://www.jekyll.com.cn/>
 
 配置文件是位于主目录的 `_config.yml`，关于配置的完整参数介绍和默认值等内容，请查阅官网文档：<https://www.jekyll.com.cn/docs/configuration/>
 
-以下是我的网站配置示例，以供参考：
-```yml
-# 以下为自定义的全局变量，可以在 HTML 文件中引用，
-# 比如代码：<h1>{{ site.title }}</h1> 
-# 将会展示为设定的值，也可以自行添加其他自定义全局变量。
-title: polyaD的深度思考博客 # 网站的标题
-description: > # 网站的描述，可能会出现在搜索引擎展示结果中
-  基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
-url: "https://polyaD.github.io" # 网站地址
-github_repo: polyaD/polyaD.github.io
-github_profile: "https://github.com/polyaD" # GitHub 个人主页
-user: "polyaD" # 用于侧栏展示的名字
-user_email: "1183780343@qq.com" # 侧栏展示的联系方式
-paginate: 5 # 主页展示的博客文章数量
-
-# jekyll 相关配置
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - COPYING
-  - vendor
-sass:
-  style: compressed
-future: true
-permalink: /:year/:month/:day/:title
-theme: jekyll-theme-slate
-```
 
 ## 配置开发环境
 
