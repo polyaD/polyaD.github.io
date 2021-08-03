@@ -39,6 +39,7 @@ Computer hardware area.
 - Embedded programming  
 
 Software domain.
+- Architect
 - Data structures
 - Topic Algorithms
 - Design Patterns
