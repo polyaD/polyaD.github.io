@@ -5,9 +5,9 @@ categories: 编程
 tags: markdown
 excerpt: 简要 markdown 语法
 ---
-
+以下为转发文章   
 ## Markdown 及扩展
-
+ 
 > Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。    —— <a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank"> [ 维基百科 ]
 
 使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*，创建一个[链接](http://www.csdn.net)等，详细语法参考帮助？。

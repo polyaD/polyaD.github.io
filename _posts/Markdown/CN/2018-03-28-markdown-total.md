@@ -10,7 +10,7 @@ excerpt: 完整版markdown语法
 ---
 
 辛勤的搬运工，原文链接<http://wowubuntu.com/markdown/index.html>
-
+以下为转发文章   
 ---
 
 # 目录
