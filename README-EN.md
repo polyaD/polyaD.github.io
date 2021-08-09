@@ -85,66 +85,16 @@ Bioinformatics field.
 - Molecular Biology
 - Clinical
 
-Product & Marketing Area.
-- Brand Planning
-- Conference and Exhibition Marketing
-- Product Copywriting
-
-
-
-Self-management and technical team management area.
-- Self-management iteration
-- People Resource Management
-- Technical Team Management
-- Corporate vision and culture assimilation kernel
-- Rapid growth of individuals and companies together
-
-Group enterprise area.
-- Corporate Strategy
-- Corporate Management
-
-Foreign language learning field.
-- 6 months to master a foreign language
-- English thinking
-- English-English dictionary
-
-Financial quantification field.
-- mql
-
-Self-media field.
-- Video Production
-- Copywriting
-- Music production
-- Cartoon production
-- 3D model production
-
-Martial arts and Taoist medicine field.
-- Chinese Medicine
-- Taoist Medicine
-- Fitness
-- Wellness
-- Martial Arts
-
-Other areas.
-- Dance
-- Camping
-- Wilderness Survival
 
 
 
 
 
 
-##Excellent collection of resources
-Metamodule.
-- Literature.
-- Booklist.
-- Blog.
-- Forums.
-- Videos.
-- Other resources.
 
-Assimilated Knowledge Areas
+
+
+
 
 Computer Hardware Domain
 
@@ -163,22 +113,6 @@ Mathematics field
 
 Bioinformatics
 
-Product and marketing area
-
-Self-management and technical team management domain
-
-Group companies
-
-
-Foreign Language Learning
-
-Quantitative Finance
-
-Self-media
-
-Martial Arts and Taoist Medicine
-
-Other fields
 
 ----
 
@@ -219,7 +153,7 @@ url: "https://polyaD.github.io" # address of your website.
 github_repo: polyaD/polyaD.github.io
 github_profile: "https://github.com/polyaD" # your GitHub home page.
 user: "polyad" # name in the sidebar
-user_email: "1183780343@qq.com" # contact email in the sidebar
+user_email: "917649462@qq.com" # contact email in the sidebar
 paginate: 5 # how many articles will show in your website home page.
 
 # configuration related to jekyll

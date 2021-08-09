@@ -3,7 +3,7 @@
         简体中文 | <a href="README-EN.md">English</a>
     </div>
     <h1>polyaD.github.io</h1>
-    <p>响应式 Github Pages 个人斜杠工具博客网站</p>
+    <p>响应式 Github Pages 个人软件技术博客网站</p>
 
 [![license](https://img.shields.io/github/license/polyaD/polyaD.github.io)](https://github.com/polyaD/polyaD.github.io/blob/master/COPYING)
 [![Gitter](https://img.shields.io/gitter/room/polyaD/polyaD.github.i0)](https://gitter.im/polyaD-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -35,54 +35,58 @@
 同化模型领域：
 - 同化知识
 
+计算机硬件领域：
+-  嵌入式编程  
 
-产品与市场领域：
-- 品牌策划
-- 会议与展会营销
-- 产品文案
+软件领域：
+- 架构师
+- 数据结构
+- 主题算法
+- 设计模式
+- 重构
+- 软件开发
+- 机器学习
+- 深度学习
+- 网络原理
+- 数据库
+- 网站开发
+- 主题code
+- 面试技巧
+- python
+- C++
+- PHP
+- R
+- Java
+- perl
+
+数学领域：
+- 数学符号
+- 微积分
+- 线性代数
+- 离散数学
+- 概念论与统计学
+- 统计学习
+- 运筹学
+- 图论
+- 博弈论
+- 数学算法实现
 
 
+生物信息领域：
+- 生信算法
+- 流程开发
+- nextflow
+- 宏基因组
+- 转录组
+- 基因组
+- 代谢组
+- 蛋白组
+- 第三代测序
+- 分子生物学
+- 临床
 
-自我管理与技术团队管理领域：
-- 自我管理迭代
-- 人脉资源管理
-- 技术团队管理
-- 企业愿景与文化同化内核
-- 个人与企业共同快速成长
-
-集团企业领域：
-- 企业战略
-- 企业管理
-
-外语学习领域：
-- 6个月掌握一门外语
-- 英语思维
-- 英英字典
-
-金融量化领域：
-- mql
-- backtrader
-- 黄金外汇
-
-自媒体领域：
-- 视频制作
-- 文案制作
-- 音乐制作
-- 漫画制作
-- 3D模型制作
-
-武术与道医领域：
-- 中医
-- 道医
-- 健身
-- 养生
-- 武术
-- 传统
-
-其他领域：
-- 舞蹈
-- 野营
-- 野外生存
+大数据与数据分析领域：
+- spark
 
 
 
@@ -117,22 +121,7 @@
 
 生物信息领域
 
-产品与市场领域
 
-自我管理与技术团队管理领域
-
-集团企业领域
-
-
-外语学习领域
-
-金融量化领域
-
-自媒体领域
-
-武术与道医领域
-
-其他领域
 
 ----
 ## 使用
