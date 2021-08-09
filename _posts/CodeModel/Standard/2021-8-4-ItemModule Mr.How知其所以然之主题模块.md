@@ -1,7 +1,7 @@
 ---
 title:  ItemModule Mr.How知其所以然之主题模块
 layout: post
-categories: 主题模块
+categories: 模版主题模块
 tags: ItemModule
 excerpt: 主题模块
 ---
