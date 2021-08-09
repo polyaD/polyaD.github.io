@@ -7,6 +7,8 @@ excerpt: 完整版markdown语法
 ---
 # Markdown 完整语法说明 <span id="home">
 
+如有任何问题或疑惑，请在后面留言或者发邮箱留言polyaluthor@gmail.com，加微信polyad或者qq数学算法开发10群 282642152进行探讨,请备注：Mr.How。   
+
 ---
 
 辛勤的搬运工，原文链接<http://wowubuntu.com/markdown/index.html>
