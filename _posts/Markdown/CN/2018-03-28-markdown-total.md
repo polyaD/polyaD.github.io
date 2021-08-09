@@ -1,8 +1,8 @@
 ---
 title:  Markdown 完整语法说明
 layout: post
-categories: 编程
-tags: markdown
+categories: 开发工具
+tags: Markdown
 excerpt: 完整版markdown语法
 ---
 # Markdown 完整语法说明 <span id="home">

@@ -1,8 +1,8 @@
 ---
 title:  Markdown 简明教程
 layout: post
-categories: 编程
-tags: markdown
+categories: 开发工具
+tags: Markdown
 excerpt: 简要 markdown 语法
 ---
 以下为转发文章   

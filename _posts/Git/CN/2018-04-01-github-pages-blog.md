@@ -1,8 +1,8 @@
 ---
 title: 搭建 Github Pages 个人博客网站
 layout: post
-tags: github-pages jekyll
-categories: 网站
+categories: 网站模板
+tags: Github-pages jekyll
 excerpt: Jekyll 搭建 Github Pages 个人博客
 ---
 以下为转发文章  
