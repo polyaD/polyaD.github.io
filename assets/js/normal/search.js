@@ -30,7 +30,6 @@ var xhr = new XMLHttpRequest() || new ActiveXObject("Microsoft.XMLHTTP");
 xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
         var xml = xhr.responseXML;
-        if (!xml) return;
 
         arrItems = xml.getElementsByTagName("item");
         itemLength = arrItems.length;
