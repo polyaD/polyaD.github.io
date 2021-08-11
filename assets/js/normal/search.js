@@ -1,6 +1,6 @@
 /**
  * 网站文章内容搜索功能实现
- * Copyright (c) 2020 polyaD. <https://github.com/polyaD/polyaD.github.io/assets/js/search.js>
+ * Copyright (c) 2020 knightyun. <https://github.com/knightyun/knightyun.github.io/assets/js/search.js>
  * @todo 多关键词搜索
  */
 
@@ -30,6 +30,7 @@ var xhr = new XMLHttpRequest() || new ActiveXObject("Microsoft.XMLHTTP");
 xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
         var xml = xhr.responseXML;
+        if (!xml) return;
 
         arrItems = xml.getElementsByTagName("item");
         itemLength = arrItems.length;
